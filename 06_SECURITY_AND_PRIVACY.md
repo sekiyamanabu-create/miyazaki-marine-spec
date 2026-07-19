@@ -1,0 +1,3 @@
+# 00_PROJECT_CHARTER.md
+
+TODO: 内容を作成予定
